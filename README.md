@@ -1,3 +1,3 @@
 # Mi primer repositorio en intenet
 
-Saludos gente del bajo mundo de internte
+Saludos gente del bajo mundo de interntet
